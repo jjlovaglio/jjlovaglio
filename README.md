@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jjlovaglio
-- I’m a winemaker by training and profession that is also very interested in programming in general and blockchain technologies in particular.
 - 🌱 I’m currently learning at Consensys Dev Bootcamp 2021
 
 
