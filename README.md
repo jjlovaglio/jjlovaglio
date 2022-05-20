@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jjlovaglio
-- 🌱 I’m currently learning at Consensys Dev Bootcamp 2021
+- 🌱 I’m currently learning at Consensys Dev Bootcamp
 
 
 <!---
